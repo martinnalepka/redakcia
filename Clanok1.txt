@@ -5,3 +5,7 @@ Datum: 2.6.2020
 Žije v početných spoločenstvách - včelstvách. Včelstvo je zo sociologického hľadiska rodina tvorená matkou a jej potomkami - robotnicami.
 Spoločne žijú pohromade najmenej dve generácie včiel a je medzi nimi aktívna súčinnosť. 
 Žiadna medonosná včela nemôže žiť dlhšiu dobu sama, je odkázaná na pomoc svojich družiek.
+----
+Vývoj včely prebieha formou dokonalej premeny (metamorfóza). Od vajíčka po dospelý hmyz prechádza viacerými štádiami. 
+Z vajíčok sa po troch dňoch vyliahnu larvy, ktoré rýchlo rastú zásluhou materskej kašičky, ktorou sú kŕmené počas prvých 3 dní. 
+Štádium vzpriamenej larvy trvá pri matke a robotnici 2 dni, pri trúdovi 3 dni.
